@@ -1,4 +1,4 @@
-# EBUDDY Production Monorepo
+# Starter Production With Monorepo
 
 ## Install
 
