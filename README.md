@@ -58,7 +58,7 @@ ebuddy-production-monorepo/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY
+git clone https://github.com/erickvierre/monorepoStarterProduction.git
 ```
 
 Enter project folder:
